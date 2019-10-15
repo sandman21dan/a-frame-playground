@@ -1,0 +1,23 @@
+{
+  "name": "a-frame-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html",
+    "start:build": "http-server -c-1 -p 1234 dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^0.9.2",
+    "http-server": "^0.11.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "@types/aframe": "^0.8.3",
+    "typescript": "^3.6.4"
+  }
+}
