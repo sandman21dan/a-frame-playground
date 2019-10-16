@@ -20,4 +20,4 @@ var t,n=arguments[3],r=require("buffer").Buffer,i=require("process");function o(
 },{"buffer":"dskh","process":"FN88"}],"QCba":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("aframe");
 },{"aframe":"pKHQ"}]},{},["QCba"], null)
-//# sourceMappingURL=src.b9e485dc.js.map
+//# sourceMappingURL=/a-frame-playground/src.b9e485dc.js.map
