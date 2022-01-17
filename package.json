@@ -14,13 +14,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aframe": "^1.0.4",
-    "http-server": "^0.12.1",
+    "aframe": "^1.2.0",
+    "http-server": "^14.1.0",
     "parcel-bundler": "^1.12.4"
   },
   "devDependencies": {
-    "@types/aframe": "^0.8.4",
-    "gh-pages": "^2.2.0",
-    "typescript": "^3.7.5"
+    "@types/aframe": "^1.0.5",
+    "gh-pages": "^3.2.3",
+    "typescript": "^4.5.4"
   }
 }
